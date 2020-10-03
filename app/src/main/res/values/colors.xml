@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="sportBackground">#f64c73</color>
+    <color name="moviesBackground">#f56d38</color>
+    <color name="shoppingBackground">#489dff</color>
+    <color name="travelingBackground">#7323dc</color>
+</resources>
